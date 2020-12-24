@@ -14,7 +14,7 @@
 
 * ⚙️ Website:https://jerinpeter.wixsitecom/aboutme
 
-* 👨🏽‍🎓 LinkedIn: https://www.linkedincom/in/jerin-peter-2b6234190/
+* 👨🏽‍🎓 LinkedIn: https://www.linkedin.com/in/jerin-peter-2b6234190/
 
 *  📸 IG: https://www.instagram.com/jerin_peter/
 
