@@ -11,7 +11,7 @@
 - 💬 Ask me about: Microcontrollers, Drones, **3D Printing**,CAD Slicing, CAD Desigining **[Fusion360]**, Robotics.
 
 - 📫 How to reach me:
-* ✉️ [Email](jerinpeter@gmail.com)
+* ✉️  Email: jerinpeter@gmail.com
 
 * ⚙️ [Website](https://jerinpeter.wixsite.com/aboutme)
 
