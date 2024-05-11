@@ -2,7 +2,7 @@
 **My Name is Jerin Peter**
 - 🔭 I’m currently working on **:::ROS**
 
-- 🌱 I’m currently pursing **Electronics and Communication** Degree [UnderGrad].
+- 🌱 I’m currently pursing **Robotics** Degree [Masters].
 
 - 👯 I’m looking to collaborate on: Projects in **:::ROS, Electronics and robotics Projects, Computer Vision and Ai**.
 
