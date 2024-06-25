@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 **My Name is Jerin Peter**
-- 🔭 I’m currently working on **:::ROS**
+- 🔭 I’m currently working on **Building Applications with ROS 2**
 
 - 🌱 I’m currently pursing **Robotics** Degree [Masters].
 
