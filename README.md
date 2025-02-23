@@ -13,7 +13,7 @@
 - 📫 How to reach me:
 * ✉️  Email: jerinpeter@gmail.com
 
-* ⚙️ [Website](https://jerinpeter.wixsite.com/aboutme)
+* ⚙️ [Website](https://jerinpeter.github.io/)
 
 * 👨🏽‍🎓 [LinkedIn](https://www.linkedin.com/in/jerin-peter-2b6234190/)
 
