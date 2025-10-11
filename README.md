@@ -12,7 +12,7 @@
 
 ## 🤖 About Me
 
-**Robotics Engineer** at **OpenMind** | **M.S. in Robotics** from UC Riverside (GPA: 3.88/4.0)
+**Robotics Engineer** at **OpenMind** | **M.S. in Robotics** from UC Riverside
 
 Results-driven robotics engineer with 2+ years of experience designing and deploying autonomous mobile robots. Specialized in achieving centimeter-level localization accuracy and 90% trajectory-precision gains. Recognized with multiple **best-paper awards** at leading robotics conferences including AIC 2022 and AIR 2023.
 
@@ -70,7 +70,7 @@ class RoboticsEngineer:
 ## 🚀 Current Focus at OpenMind
 
 - 🏢 Developing **autonomous systems for Unitree Go2 robots**
-- 🔋 Building **autonomous charging infrastructure** with AprilTag-based docking
+- 🔋 Building **autonomous charging infrastructure** with AprilTag-based docking for quadrupeds
 - 🗺️ Implementing **SLAM and Nav2 navigation stacks** for indoor/outdoor navigation
 - ⚡ Creating **Flask-based orchestrator APIs** for robot subsystem management
 - 🎯 Achieving **centimeter-level localization** with multi-sensor fusion
