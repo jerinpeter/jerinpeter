@@ -232,35 +232,6 @@ Creating **LLM function calling** pipelines for natural language robot commands 
 
 </div>
 
----
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🥇 Best Paper Award
-**IEEE AIC 2022**
-
-</td>
-<td align="center" width="33%">
-
-### 🎤 Best Presentation
-**ACM AIR 2023**
-
-</td>
-<td align="center" width="33%">
-
-### 📚 Publications
-**3 Peer-Reviewed Papers**
-IEEE • ACM • Springer
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 Quick Stats
 
 <div align="center">
