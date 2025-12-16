@@ -233,21 +233,6 @@ Creating **LLM function calling** pipelines for natural language robot commands 
 </div>
 
 ---
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<!-- Primary Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=jerinpeter&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
-
-<br/>
-
-<!-- Alternative Trophy Row -->
-<img src="https://github-profile-trophy.vercel.app/?username=jerinpeter&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
 <br/>
 
 <table align="center">
@@ -304,21 +289,6 @@ IEEE • ACM • Springer
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerinpeter/jerinpeter/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerinpeter/jerinpeter/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jerinpeter/jerinpeter/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
