@@ -48,7 +48,7 @@ class JerinPeter:
         ]
         
         self.currently_building = {
-            "platform": "Unitree G1 Humanoid & Go2 Quadruped",
+            "platform": "Unitree G1 Humanoid & Go2 Quadruped, Limx Tron1, Agibot X2, Booster K1 etc",
             "stack": "ROS2 + Nav2 + RTAB-Map + LLM Integration",
             "mission": "Bridging AGI with physical robotic systems"
         }
