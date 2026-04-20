@@ -37,7 +37,7 @@ class JerinPeter:
     
     def __init__(self):
         self.role = "Robotics Engineer @ OpenMind AGI"
-        self.location = "San Francisco, CA 🌉"
+        self.location = "San Francisco, CA "
         self.education = "M.S. Robotics, UC Riverside"
         
         self.focus_areas = [
