@@ -66,7 +66,7 @@ class JerinPeter:
 <td width="50%">
 
 ### 🤖 Humanoid Navigation
-Developing joint control & autonomous navigation for **Unitree G1 Humanoid** with MPPI controllers and advanced localization
+Developing joint control & autonomous navigation for **Unitree G1 Humanoid** with MPPI controllers and advanced localization techniques
 
 </td>
 <td width="50%">
